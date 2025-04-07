@@ -18,27 +18,13 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
   - Ratings are saved using **LocalStorage**.
   - Average rating is displayed and updates in real time.
 
-### 📊 Project Bidding Dashboard
 
-- Displays a list of available projects (from mock API or JSON file).
-- Freelancers can:
-  - Submit bids (amount, duration, and proposal).
-  - View status of submitted bids (**Pending / Accepted / Rejected**).
-- Bid data is stored in **LocalStorage** for persistence.
-
-### 🌗 Dark Mode
-
-- Toggleable dark mode using Tailwind CSS.
-- User preference (light/dark) can be stored and remembered using LocalStorage (bonus).
-
----
 
 ## 🛠️ Tech Stack
 
 - **React.js**
 - **Tailwind CSS**
 - **Material UI (MUI)**
-- **LocalStorage**
 - **Mock API / JSON File**
 
 ---
