@@ -30,4 +30,25 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 ---
 
 ## 📂 Folder Structure (Simplified)
+## 📁 Freelancer_Profile/
+
+```bash
+├── packages/                           # README.md containing deployment steps, important json and java script packages
+├── public/
+│   ├── index.html                      # HTML entry point
+│   └── assets/                         # Logo, manifest, icons, etc.
+│
+├── src/
+│   ├── components/
+│   │   └── FreelancerProfile.js        # Main UI component for profile
+│   ├── App.js                          # App entry point
+│   ├── index.js                        # Renders App to the DOM
+│   ├── index.css                       # Tailwind base styles
+│   ├── App.css                         # Custom styles
+│   └── ...                             # Additional config or utility files
+│
+├── tailwind.config.js                 # Tailwind CSS configuration
+├── postcss.config.js                  # PostCSS setup for Tailwind
+├── package.json                       # Project dependencies and metadata
+└── README.md                          # You're reading it :)
 
