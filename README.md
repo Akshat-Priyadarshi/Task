@@ -97,12 +97,14 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 │   └── setupTests.js                 # Test environment setup
 ```
 ## 🌍 Deployment
-
+```bash
 **Freelancer Profile:**  
 🔗 [https://task01-git-main-akshat-priyadarshis-projects.vercel.app](https://task01-git-main-akshat-priyadarshis-projects.vercel.app)
-
+```
+```bash
 **Project Bidding Dashboard:**  
 🔗 [https://task02-git-main-akshat-priyadarshis-projects.vercel.app](https://task02-git-main-akshat-priyadarshis-projects.vercel.app)/
+```
 📧 Contact
 ```bash
   idhnap2005@gmail.com
