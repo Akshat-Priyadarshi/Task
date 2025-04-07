@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "budget": 15000,
+    "timeline": 7,
+    "skills": ["React", "TailwindCSS"]
+  },
+  {
+    "id": 2,
+    "name": "Blockchain Smart Contract",
+    "budget": 50000,
+    "timeline": 14,
+    "skills": ["Solidity", "Ethereum"]
+  }
+]
