@@ -68,7 +68,31 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 ## 📁 Project_Bidding_Dashboard/
 
 ```bash
-├── packages/                         # Node modules or custom packages (if any)
-├── public/                           # Static files and index.html
-├── src/                              # React source code (components, pages, logic, etc.)
+├── packages/
+│   ├── README.md                     # Package information
+│   ├── package-lock.json             # Exact dependency tree
+│   ├── package.json                  # Project dependencies and scripts
+│   └── tailwind.config.js            # Tailwind CSS configuration
+│
+├── public/
+│   ├── favicon.ico                   # Favicon for browser tab
+│   ├── index.html                    # HTML entry point
+│   ├── logo192.png                   # App logo
+│   ├── logo512.png                   # App logo (larger)
+│   ├── manifest.json                 # PWA manifest
+│   ├── projects.json                 # Mock project data
+│   └── robots.txt                    # SEO / crawler settings
+│
+├── src/
+│   ├── App.css                       # Custom styles
+│   ├── App.js                        # Main application logic
+│   ├── App.test.js                   # Unit tests
+│   ├── BidForm.js                    # Component to place a bid
+│   ├── DarkModeToggle.js             # Toggle for dark mode
+│   ├── ProjectList.js                # Component to display available projects
+│   ├── index.css                     # Tailwind base styles
+│   ├── index.js                      # React DOM render
+│   ├── logo.svg                      # App logo (SVG format)
+│   ├── reportWebVitals.js            # Performance measurement
+│   └── setupTests.js                 # Test environment setup
 ```
