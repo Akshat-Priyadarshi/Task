@@ -96,3 +96,10 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 │   ├── reportWebVitals.js            # Performance measurement
 │   └── setupTests.js                 # Test environment setup
 ```
+## 🌍 Deployment
+
+**Freelancer Profile:**  
+🔗 [https://task01-git-main-akshat-priyadarshis-projects.vercel.app](https://task01-git-main-akshat-priyadarshis-projects.vercel.app)
+
+**Project Bidding Dashboard:**  
+🔗 [https://task02-git-main-akshat-priyadarshis-projects.vercel.app](https://task02-git-main-akshat-priyadarshis-projects.vercel.app)
