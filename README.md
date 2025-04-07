@@ -68,11 +68,11 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 ## 📁 Project_Bidding_Dashboard/
 
 ```bash
-├── packages/
-│   ├── README.md                     # Package information
-│   ├── package-lock.json             # Exact dependency tree
-│   ├── package.json                  # Project dependencies and scripts
-│   └── tailwind.config.js            # Tailwind CSS configuration
+
+├── README.md                     # Package information
+├── package-lock.json             # Exact dependency tree
+├── package.json                  # Project dependencies and scripts
+└── tailwind.config.js            # Tailwind CSS configuration
 │
 ├── public/
 │   ├── favicon.ico                   # Favicon for browser tab
@@ -99,10 +99,10 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 ## 🌍 Deployment
 
 **Freelancer Profile:**  
-🔗 [https://task01-git-main-akshat-priyadarshis-projects.vercel.app](https://task01-git-main-akshat-priyadarshis-projects.vercel.app)
+🔗 [https://task01peerhire-git-main-akshat-priyadarshis-projects.vercel.app](https://task01peerhire-git-main-akshat-priyadarshis-projects.vercel.app)
 
 **Project Bidding Dashboard:**  
-🔗 [https://task02-git-main-akshat-priyadarshis-projects.vercel.app](https://task02-git-main-akshat-priyadarshis-projects.vercel.app)/
+🔗 [https://task02peerhire-git-main-akshat-priyadarshis-projects.vercel.app](https://task02peerhire-git-main-akshat-priyadarshis-projects.vercel.app)/
 
 📧 Contact
 ```bash
