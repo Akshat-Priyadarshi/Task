@@ -102,7 +102,7 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 🔗 [https://task01-git-main-akshat-priyadarshis-projects.vercel.app](https://task01-git-main-akshat-priyadarshis-projects.vercel.app)
 
 **Project Bidding Dashboard:**  
-🔗 [https://task02-git-main-akshat-priyadarshis-projects.vercel.app](https://task02-git-main-akshat-priyadarshis-projects.vercel.app)
+🔗 [https://task02-git-main-akshat-priyadarshis-projects.vercel.app](https://task02-git-main-akshat-priyadarshis-projects.vercel.app)/
 📧 Contact
 ```bash
   idhnap2005@gmail.com
