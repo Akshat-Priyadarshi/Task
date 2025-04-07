@@ -64,4 +64,11 @@ The goal was to simulate a real-world freelancing platform interface, focusing o
 ├── postcss.config.js                  # PostCSS setup for Tailwind
 ├── package.json                       # Project dependencies and metadata
 └── README.md                          # You're reading it :)
+```
+## 📁 Project_Bidding_Dashboard/
 
+```bash
+├── packages/                         # Node modules or custom packages (if any)
+├── public/                           # Static files and index.html
+├── src/                              # React source code (components, pages, logic, etc.)
+```
